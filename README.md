@@ -18,6 +18,7 @@ This project is a simple screensaver built using the PyGame library. It displays
 git clone https://github.com/fenryrth/imgshuffle.git
 cd imgshuffle/
 conda env create -f environment.yml
+conda activate imgshuffle
 ```
 
 ### The manual way
