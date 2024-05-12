@@ -30,6 +30,10 @@ cd imgshuffle/
 pip install -r requirements.txt
 python imgshuffle.py
 ```
+## Edit config
+You need to edit the `config.json` file before you can run the program.
+Change the path to your preffered image folder.
+You can also edit how long each image is shown on your screen. The default is 15 seconds.
 
 ## Run imgShuffle
 ```bash
