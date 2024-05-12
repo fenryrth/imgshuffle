@@ -28,7 +28,6 @@ conda activate imgshuffle
 git clone https://github.com/fenryrth/imgshuffle.git
 cd imgshuffle/
 pip install -r requirements.txt
-python imgshuffle.py
 ```
 ## Edit config
 You need to edit the `config.json` file before you can run the program.
